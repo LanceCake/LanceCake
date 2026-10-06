@@ -9,15 +9,15 @@
 </p>
 
 <p align="center">
-  Building systems where models do more than answer prompts — they observe, coordinate, decide, verify, and improve.
+  Building systems where models do more than answer prompts - they observe, coordinate, decide, verify, and improve.
 </p>
 
 ## What I build
 
-- **Agent orchestration** — multi-agent workflows, bounded roles, verifiable handoffs, and autonomous implementation runs.
-- **Forecasting & decision systems** — evidence-driven probabilities, calibration, benchmark loops, and fail-closed safety gates.
-- **Autonomous environments** — AI agents acting in persistent game worlds under equal rules and measurable outcomes.
-- **Generative AI infrastructure** — privacy-conscious pipelines around local/remote model workers, APIs, and automation.
+- **Agent orchestration** - multi-agent workflows, bounded roles, verifiable handoffs, and autonomous implementation runs.
+- **Forecasting & decision systems** - evidence-driven probabilities, calibration, benchmark loops, and fail-closed safety gates.
+- **Autonomous environments** - AI agents acting in persistent game worlds under equal rules and measurable outcomes.
+- **Generative AI infrastructure** - privacy-conscious pipelines around local/remote model workers, APIs, and automation.
 
 ## Stack & tools
 
