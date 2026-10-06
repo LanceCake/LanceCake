@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="./assets/moon-banner.jpg" width="100%" alt="Moon banner" />
-</p>
-
-<h1 align="center">LanceCake</h1>
-
-<p align="center">
   <strong>AI systems · autonomous agents · probabilistic forecasting · agent orchestration</strong>
 </p>
 
@@ -36,12 +30,6 @@
 | **Reliable AI agents** | Explicit contracts, isolated roles, retries, audit trails, verification, and safe failure modes. |
 | **Decision intelligence** | Turning public evidence into calibrated probabilities and learning from resolved outcomes. |
 | **Autonomous systems** | Agents that can operate in software workflows and persistent game environments with measurable behavior. |
-
-## Public work
-
-### [Symphony](https://github.com/LanceCake/symphony)
-
-A public workbench for autonomous implementation runs: coding agents take scoped work, produce proof, handle review feedback, and move software tasks toward completion with less direct supervision.
 
 ---
 
